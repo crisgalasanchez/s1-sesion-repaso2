@@ -1,0 +1,23 @@
+.web{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.link{
+	background-color: green;
+	width: 20%;
+}
+
+.main-heading{
+	background-color: yellow;
+	width: 55%;
+}
+
+
+.related-info{
+	background-color: grey;
+	width: 20%;
+}
